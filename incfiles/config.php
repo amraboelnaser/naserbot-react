@@ -1,6 +1,6 @@
 <?
 $host = "otmaa16c1i9nwrek.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-$username = "otmaa16c1i9nwrek.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$username = "reebt6jowokrf8if";
 $password = "i84dkuh6b3waqtcc";
 $dbname = "mysql";
 $connection = mysql_connect($host,$username,$password);
