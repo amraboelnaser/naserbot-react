@@ -1,8 +1,8 @@
 <?
-$host = "127.3.25.2";
-$username = "adminMcBGudk";
-$password = "Ixx_HRkGQxjv";
-$dbname = "bot";
+$host = "ec2-54-225-118-55.compute-1.amazonaws.com";
+$username = "witqrqrzgltbee";
+$password = "5d467f5e9cfa555d38631a05312b14798cfc20ef9e98534f2a211a11c103120d";
+$dbname = "d4qs8mvv19ldia";
 $connection = mysql_connect($host,$username,$password);
 if (!$connection)
 {
