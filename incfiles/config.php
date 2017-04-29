@@ -1,8 +1,8 @@
 <?
-$host = "ec2-54-225-118-55.compute-1.amazonaws.com";
-$username = "witqrqrzgltbee";
-$password = "5d467f5e9cfa555d38631a05312b14798cfc20ef9e98534f2a211a11c103120d";
-$dbname = "d4qs8mvv19ldia";
+$host = "otmaa16c1i9nwrek.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$username = "otmaa16c1i9nwrek.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$password = "so5gcf3jlrfrwfbq";
+$dbname = "mysql";
 $connection = mysql_connect($host,$username,$password);
 if (!$connection)
 {
